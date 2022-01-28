@@ -1,0 +1,128 @@
+
+
+/* --------------------------------------Home Page--------------------------------------------- */
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    
+}  
+
+.header 
+{
+    height: 90vh;
+    width: 100%;
+  
+    color: white;
+    background-image:linear-gradient(to right, rgb(0, 0, 5),rgba(0, 0, 0, 0.26)), url("/Images/header.jpg");
+    background-size: cover;
+
+}
+
+
+
+.h-100 {
+    height: 100%;
+    width: 100%;
+
+}
+
+
+.btn
+{
+    border-radius: 10rem !important;
+    padding: 0.22rem 1.2rem !important;
+   
+    
+
+}
+.message{
+    color:rgb(0, 0, 0);
+    background-image: linear-gradient(to top, #3b42c55b 0%, #a981bb49 49%, #ffc9a965 100%);
+}
+.Services
+{
+    color: black;
+}
+
+.myicon 
+{
+    font-size: 200px;
+    padding: 20px;
+}
+
+/* --------------------------------Main Form & Resume Page--------------------------------------------------------- */
+*{
+    margin: 0px;
+    padding: 0px;
+} 
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}  
+
+.header 
+{
+    height: 90vh;
+    width: 100%;
+  
+    color: white;
+    background-image:linear-gradient(to right, rgb(0, 0, 5),rgba(0, 0, 0, 0.26)), url("wppr.jpg");
+    background-size: cover;
+
+}
+.h-100 {
+    height: 100%;
+    width: 100%;
+
+}
+.btn
+{
+    border-radius: 10rem !important;
+    padding: 0.22rem 1.2rem !important; 
+
+}
+.message{
+    color:rgb(0, 0, 0);
+    background-image: linear-gradient(to top, #3b42c55b 0%, #a981bb49 49%, #ffc9a965 100%);
+}
+.Services
+{
+    color: black;
+}
+
+.myicon 
+{
+    font-size: 200px;
+    padding: 20px;
+}
+
+/* -------------------------------------------------- */
+#cv-form {
+    /* display: none; */
+    color:rgb(0, 0, 0);
+    /* background-color: rgb(66, 65, 65); */
+    /* background: url(zwppr.jpg); */
+   
+    
+}
+
+#cv-template{
+    display: none;
+}
+
+
+.myimg{
+    /* border: 1px black; */
+    border-radius: 50%;
+    width: 200px;
+
+}
+.background{
+    background-color: rgb(46, 44, 44);
+
+}
+#txt{
+    color: aliceblue;
+}
+
